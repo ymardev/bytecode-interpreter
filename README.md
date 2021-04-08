@@ -58,4 +58,3 @@ You'll notice they use some shorthand notation, or factory functions, to create 
 ## What's next ?
 
 Inputs, a call stack, maybe a compiler ? Or something unrelated entirely.
-Maybe get in touch: janderudder.dev@gmail.com
